@@ -1,0 +1,23 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.dashgoblin {
+	margin: 0 15px 0 0;
+}
+
+.dashgoblin .error {
+	margin-left: 0;
+	margin-right: 0;
+}
+
+ .change_wallet,.cancel_wallet {
+ 	font-weight: bold;
+ }
+
+ #enable_goblin,#wallet_display,#token_form {
+ 	margin-top: 40px;
+ 	padding-top: 30px;
+ 	border-top: 1px solid #ccc;
+ }
